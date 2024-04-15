@@ -9,6 +9,8 @@
     - [2.1 File CSV](#21-file-csv)
     - [2.2 File JSON](#22-file-json)
     - [2.3 API](#23-api)
+    - [2.4 File XML](#24-file-xml)
+    - [2.5 Database](#25-database)
   - [3. Transformasi Data (Transformation)](#3-transformasi-data-transformation)
     - [3.1 Menggabungkan Data dari Berbagai Sumber (Combining Data from Different Sources)](#31-menggabungkan-data-dari-berbagai-sumber-combining-data-from-different-sources)
     - [3.2 Pembersihan Data (Data Cleaning)](#32-pembersihan-data-data-cleaning)
@@ -32,6 +34,12 @@ Mengambil data dari file JSON yang sering digunakan untuk pertukaran data di web
 
 ### 2.3 API
 Data juga diekstrak dari berbagai API yang menyediakan data dinamis yang diperbarui secara berkala.
+
+### 2.4 File XML
+Mengambil data dari file XML yang sering digunakan untuk pertukaran data di web.
+
+### 2.5 Database
+Mengambil data dari database SQLite yang menyimpan data dalam format tabel yang terstruktur.
 
 ## 3. Transformasi Data (Transformation)
 ### 3.1 Menggabungkan Data dari Berbagai Sumber (Combining Data from Different Sources)
