@@ -15,7 +15,8 @@
     - [3.3 Transformasi Lebih Lanjut](#33-transformasi-lebih-lanjut)
   - [4. Memuat Data (Load)](#4-memuat-data-load)
   - [5. Detail Proyek](#5-detail-proyek)
-  - [6. Referensi](#6-referensi)
+  - [6. Tools](#6-tools)
+  - [7. Referensi](#7-referensi)
 
 
 ## 1. Pengantar
@@ -107,7 +108,22 @@ Mengirim data yang telah ditransformasi ke database untuk penyimpanan dan akses 
     - Buatlah analisis data yang informatif dan menarik dari dataset projects_data.csv, population_data.csv, population_data.json, population_data.xml, dan population_data.db. 
     - dari Kolom countryname, countrycode, year, gdp, population, gdppercapita, ruralpopulationpercent, electricityaccesspercent, dan projectcost buatkan visualisasi data yang informatif dan menarik. analisis ini bisa berupa analisis statistik deskriptif, analisis korelasi, analisis distribusi, analisis tren, analisis perbandingan, atau analisis lain yang informatif. gunakan teknik visualisasi untuk membuat analisis ini lebih menarik dan informatif.
 
-## 6. Referensi
+## 6. Tools
+- Python
+- Library in Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, etc.
+- Jupyter Notebook
+- Google Cloud Storage
+- SQLite
+- API World Bank
+- XML
+- JSON
+- CSV
+- DB
+- Apache Airflow
+- Dataflow
+- other, etc.
+
+## 7. Referensi
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Numpy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
