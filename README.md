@@ -1,5 +1,23 @@
 # Mini Project Data Engineer di Alterra Academy
 
+<!-- Table of Content -->
+## Table of Contents
+- [Mini Project Data Engineer di Alterra Academy](#mini-project-data-engineer-di-alterra-academy)
+  - [Table of Contents](#table-of-contents)
+  - [1. Pengantar](#1-pengantar)
+  - [2. Ekstraksi Data (Extract)](#2-ekstraksi-data-extract)
+    - [2.1 File CSV](#21-file-csv)
+    - [2.2 File JSON](#22-file-json)
+    - [2.3 API](#23-api)
+  - [3. Transformasi Data (Transformation)](#3-transformasi-data-transformation)
+    - [3.1 Menggabungkan Data dari Berbagai Sumber (Combining Data from Different Sources)](#31-menggabungkan-data-dari-berbagai-sumber-combining-data-from-different-sources)
+    - [3.2 Pembersihan Data (Data Cleaning)](#32-pembersihan-data-data-cleaning)
+    - [3.3 Transformasi Lebih Lanjut](#33-transformasi-lebih-lanjut)
+  - [4. Memuat Data (Load)](#4-memuat-data-load)
+  - [5. Detail Proyek](#5-detail-proyek)
+  - [6. Referensi](#6-referensi)
+
+
 ## 1. Pengantar
 ETL adalah singkatan dari Extract, Transform, Load. Tujuan utama dari notebook ini adalah untuk membersihkan kumpulan data dan menggabungkannya menjadi satu tabel yang nantinya bisa digunakan untuk menjalankan model prediksi biaya total proyek Bank Dunia.
 
