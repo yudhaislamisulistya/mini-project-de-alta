@@ -16,7 +16,8 @@
   - [4. Memuat Data (Load)](#4-memuat-data-load)
   - [5. Detail Proyek](#5-detail-proyek)
   - [6. Tools](#6-tools)
-  - [7. Referensi](#7-referensi)
+  - [7. Dataset](#7-dataset)
+  - [8. Referensi](#8-referensi)
 
 
 ## 1. Pengantar
@@ -123,7 +124,20 @@ Mengirim data yang telah ditransformasi ke database untuk penyimpanan dan akses 
 - Dataflow
 - other, etc.
 
-## 7. Referensi
+## 7. Dataset
+Berikut adalah beberapa dataset yang digunakan dalam proyek ini:
+- **electricity_access_percent.csv**: Data tentang persentase akses listrik di berbagai negara.
+- **gdp_data.csv**: Data tentang Produk Domestik Bruto (GDP) negara-negara.
+- **mystery.csv**: Sebuah dataset dengan konten yang belum ditentukan, memerlukan investigasi lebih lanjut.
+- **population_data.csv**: Data populasi negara-negara dalam format CSV.
+- **population_data.db**: Database SQLite yang berisi data populasi negara-negara.
+- **population_data.json**: Data populasi negara-negara dalam format JSON.
+- **population_data.xml**: Data populasi negara-negara dalam format XML, yang diurai menggunakan library seperti BeautifulSoup.
+- **projects_data.csv**: Data tentang proyek-proyek yang telah atau sedang dilaksanakan oleh Bank Dunia.
+- **rural_population_percent.csv**: Data tentang persentase populasi pedesaan di berbagai negara.
+- **API World Bank**: API yang menyediakan data populasi negara-negara.
+
+## 8. Referensi
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Numpy Documentation](https://numpy.org/doc/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
